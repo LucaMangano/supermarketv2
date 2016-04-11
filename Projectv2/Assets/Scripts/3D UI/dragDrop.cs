@@ -38,6 +38,7 @@ public class dragDrop : MonoBehaviour {
 	{
 		dragging = false;
 		drag.transform.position = new Vector3 (shadow.transform.position.x, shadow.transform.position.y, 553);
+		DontDestroyOnLoad (drag);
 		Destroy (shadow);
 	}
 
