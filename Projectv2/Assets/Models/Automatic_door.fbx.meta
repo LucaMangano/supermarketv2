@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: acf8e0ead0afcca409ae7a53e2180e0c
+timeCreated: 1457459293
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Automatic_door_left_static_window
+    100004: Automatic_door_left_static_window_pane
+    100006: Automatic_door_left_window
+    100008: Automatic_door_right_static_window
+    100010: Automatic_door_right_static_window_pane
+    100012: Automatic_door_right_window
+    100014: Automatic_door_upper_window
+    100016: Automatic_door_upper_window_Pane
+    100018: AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    100020: AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    100022: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    100024: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    100026: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    100028: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    100030: Left_door
+    100032: Right_door
+    100034: Sensor
+    400000: //RootNode
+    400002: Automatic_door_left_static_window
+    400004: Automatic_door_left_static_window_pane
+    400006: Automatic_door_left_window
+    400008: Automatic_door_right_static_window
+    400010: Automatic_door_right_static_window_pane
+    400012: Automatic_door_right_window
+    400014: Automatic_door_upper_window
+    400016: Automatic_door_upper_window_Pane
+    400018: AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    400020: AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    400022: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    400024: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    400026: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    400028: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    400030: Left_door
+    400032: Right_door
+    400034: Sensor
+    2300000: Automatic_door_left_static_window
+    2300002: Automatic_door_left_static_window_pane
+    2300004: Automatic_door_right_static_window
+    2300006: Automatic_door_right_static_window_pane
+    2300008: Automatic_door_upper_window
+    2300010: Automatic_door_upper_window_Pane
+    2300012: AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    2300014: AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    2300016: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    2300018: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    2300020: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    2300022: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    2300024: Sensor
+    3300000: Automatic_door_left_static_window
+    3300002: Automatic_door_left_static_window_pane
+    3300004: Automatic_door_right_static_window
+    3300006: Automatic_door_right_static_window_pane
+    3300008: Automatic_door_upper_window
+    3300010: Automatic_door_upper_window_Pane
+    3300012: AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    3300014: AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    3300016: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    3300018: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    3300020: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    3300022: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    3300024: Sensor
+    4300000: Sensor
+    4300002: Automatic_door_upper_window_Pane
+    4300004: Automatic_door_upper_window
+    4300006: AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    4300008: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    4300010: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    4300012: AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    4300014: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    4300016: AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    4300018: Automatic_door_left_static_window_pane
+    4300020: Automatic_door_left_static_window
+    4300022: Automatic_door_right_static_window_pane
+    4300024: Automatic_door_right_static_window
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: eb394218f3bc35e4d9fca69ccc92e57a
+timeCreated: 1456786363
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bottom_Shelf
+    100002: Col_1
+    100004: Col_2
+    100006: Col_3
+    100008: Foot_1
+    100010: Foot_2
+    100012: Foot_3
+    100014: Foot_4
+    100016: left_cover
+    100018: left_holder
+    100020: left_holder 1
+    100022: left_holder 2
+    100024: right_cover1
+    100026: right_holder
+    100028: right_holder 1
+    100030: right_holder 2
+    100032: //RootNode
+    100034: Shelf_2
+    100036: Shelf_3
+    100038: Shelf_4
+    100040: Shelves
+    100042: Support
+    100044: Wall_Support
+    400000: Bottom_Shelf
+    400002: Col_1
+    400004: Col_2
+    400006: Col_3
+    400008: Foot_1
+    400010: Foot_2
+    400012: Foot_3
+    400014: Foot_4
+    400016: left_cover
+    400018: left_holder
+    400020: left_holder 1
+    400022: left_holder 2
+    400024: right_cover1
+    400026: right_holder
+    400028: right_holder 1
+    400030: right_holder 2
+    400032: //RootNode
+    400034: Shelf_2
+    400036: Shelf_3
+    400038: Shelf_4
+    400040: Shelves
+    400042: Support
+    400044: Wall_Support
+    2300000: Bottom_Shelf
+    2300002: Col_1
+    2300004: Col_2
+    2300006: Col_3
+    2300008: Foot_1
+    2300010: Foot_2
+    2300012: Foot_3
+    2300014: Foot_4
+    2300016: left_cover
+    2300018: left_holder
+    2300020: left_holder 1
+    2300022: left_holder 2
+    2300024: right_cover1
+    2300026: right_holder
+    2300028: right_holder 1
+    2300030: right_holder 2
+    2300032: Shelf_2
+    2300034: Shelf_3
+    2300036: Shelf_4
+    3300000: Bottom_Shelf
+    3300002: Col_1
+    3300004: Col_2
+    3300006: Col_3
+    3300008: Foot_1
+    3300010: Foot_2
+    3300012: Foot_3
+    3300014: Foot_4
+    3300016: left_cover
+    3300018: left_holder
+    3300020: left_holder 1
+    3300022: left_holder 2
+    3300024: right_cover1
+    3300026: right_holder
+    3300028: right_holder 1
+    3300030: right_holder 2
+    3300032: Shelf_2
+    3300034: Shelf_3
+    3300036: Shelf_4
+    4300000: Foot_1
+    4300002: Foot_2
+    4300004: Foot_3
+    4300006: Foot_4
+    4300008: Bottom_Shelf
+    4300010: left_cover
+    4300012: right_cover1
+    4300014: Col_1
+    4300016: Col_2
+    4300018: Col_3
+    4300020: Shelf_2
+    4300022: right_holder
+    4300024: left_holder
+    4300026: Shelf_3
+    4300028: right_holder
+    4300030: left_holder
+    4300032: Shelf_4
+    4300034: left_holder
+    4300036: right_holder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
