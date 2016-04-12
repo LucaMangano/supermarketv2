@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: a016d85fcb3d2bb4b8f5cdc60751d56a
+timeCreated: 1460488048
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Center_Peice_Cooling_Unit_Glass_Doors
+    100002: //RootNode
+    100004: Cooling_Unit_Glass_Doors_Self_1
+    100006: Cooling_Unit_Glass_Doors_Self_2
+    100008: Cooling_Unit_Glass_Doors_Self_3
+    100010: Cooling_Unit_Glass_Doors_Side_Left
+    100012: Cooling_Unit_Glass_Doors_Side_Right
+    400000: Center_Peice_Cooling_Unit_Glass_Doors
+    400002: //RootNode
+    400004: Cooling_Unit_Glass_Doors_Self_1
+    400006: Cooling_Unit_Glass_Doors_Self_2
+    400008: Cooling_Unit_Glass_Doors_Self_3
+    400010: Cooling_Unit_Glass_Doors_Side_Left
+    400012: Cooling_Unit_Glass_Doors_Side_Right
+    2300000: Center_Peice_Cooling_Unit_Glass_Doors
+    2300002: Cooling_Unit_Glass_Doors_Self_1
+    2300004: Cooling_Unit_Glass_Doors_Self_2
+    2300006: Cooling_Unit_Glass_Doors_Self_3
+    2300008: Cooling_Unit_Glass_Doors_Side_Left
+    2300010: Cooling_Unit_Glass_Doors_Side_Right
+    3300000: Center_Peice_Cooling_Unit_Glass_Doors
+    3300002: Cooling_Unit_Glass_Doors_Self_1
+    3300004: Cooling_Unit_Glass_Doors_Self_2
+    3300006: Cooling_Unit_Glass_Doors_Self_3
+    3300008: Cooling_Unit_Glass_Doors_Side_Left
+    3300010: Cooling_Unit_Glass_Doors_Side_Right
+    4300000: Center_Peice_Cooling_Unit_Glass_Doors
+    4300002: Cooling_Unit_Glass_Doors_Self_1
+    4300004: Cooling_Unit_Glass_Doors_Self_2
+    4300006: Cooling_Unit_Glass_Doors_Self_3
+    4300008: Cooling_Unit_Glass_Doors_Side_Left
+    4300010: Cooling_Unit_Glass_Doors_Side_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
