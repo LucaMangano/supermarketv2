@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: 6984006bf95f8d748b82d70748774f57
+timeCreated: 1460916682
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Automatic_Door:Automatic_door_left_static_window
+    100002: Automatic_Door:Automatic_door_left_static_window_pane
+    100004: Automatic_Door:Automatic_door_left_window
+    100006: Automatic_Door:Automatic_door_right_static_window
+    100008: Automatic_Door:Automatic_door_right_static_window_pane
+    100010: Automatic_Door:Automatic_door_right_window
+    100012: Automatic_Door:Automatic_door_upper_window
+    100014: Automatic_Door:Automatic_door_upper_window_Pane
+    100016: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    100018: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    100020: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    100022: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    100024: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    100026: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    100028: Automatic_Door:Left_door
+    100030: Automatic_Door:Right_door
+    100032: Automatic_Door:Sensor
+    100034: Automatic_Door:Sliding_Door
+    100036: Automatic_Door:transform1
+    100038: Automatic_Door:transform10
+    100040: Automatic_Door:transform11
+    100042: Automatic_Door:transform12
+    100044: Automatic_Door:transform13
+    100046: Automatic_Door:transform2
+    100048: Automatic_Door:transform3
+    100050: Automatic_Door:transform4
+    100052: Automatic_Door:transform5
+    100054: Automatic_Door:transform6
+    100056: Automatic_Door:transform7
+    100058: Automatic_Door:transform8
+    100060: Automatic_Door:transform9
+    100062: Beam_grid_1
+    100064: Beam_grid_1 1
+    100066: Beam_grid_1 2
+    100068: Beam_grid_1 3
+    100070: Beam_grid_2
+    100072: Beam_grid_2 1
+    100074: Beam_grid_2 2
+    100076: Beam_grid_2 3
+    100078: Beam_grid_3
+    100080: Beam_grid_3 1
+    100082: Beam_grid_3 2
+    100084: Beam_grid_3 3
+    100086: Beam_grid_4
+    100088: Beam_grid_4 1
+    100090: Beam_grid_4 2
+    100092: Beam_grid_4 3
+    100094: Beam_grid_5
+    100096: Beam_grid_5 1
+    100098: Beam_grid_5 2
+    100100: Beam_grid_5 3
+    100102: Beam_grid_6
+    100104: Beam_grid_6 1
+    100106: Beam_grid_6 2
+    100108: Beam_grid_6 3
+    100110: Endframe_1
+    100112: Endframe_1 1
+    100114: Endframe_1 2
+    100116: Endframe_1 3
+    100118: Endframe_2
+    100120: Endframe_2 1
+    100122: Endframe_2 2
+    100124: Endframe_2 3
+    100126: Frame
+    100128: Frame 1
+    100130: Frame 2
+    100132: Frame 3
+    100134: group
+    100136: group1
+    100138: group2
+    100140: group3
+    100142: group4
+    100144: group5
+    100146: group6
+    100148: group7
+    100150: pasted__group4
+    100152: pasted__pasted__pCube12
+    100154: pasted__pCube11
+    100156: pasted__pCube12
+    100158: pasted__pCube13
+    100160: pasted__pCube13 1
+    100162: pasted__pCube8
+    100164: pCube1
+    100166: pCube10
+    100168: pCube10 1
+    100170: pCube11
+    100172: pCube13
+    100174: pCube2
+    100176: pCube3
+    100178: pCube4
+    100180: pCube5
+    100182: pCube6
+    100184: pCube7
+    100186: pCube8
+    100188: pCube9
+    100190: pPlane2
+    100192: Roof
+    100194: Roof2
+    100196: Sideframe_1
+    100198: Sideframe_1 1
+    100200: Sideframe_1 2
+    100202: Sideframe_1 3
+    100204: Sideframe_2
+    100206: Sideframe_2 1
+    100208: Sideframe_2 2
+    100210: Sideframe_2 3
+    100212: //RootNode
+    100214: Top_beam
+    100216: Top_beam 1
+    100218: Top_beam 2
+    100220: Top_beam 3
+    100222: Top_Window
+    100224: Top_Window1
+    100226: Top_Window2
+    100228: Top_Window3
+    100230: transform1
+    100232: transform10
+    100234: transform11
+    100236: transform12
+    100238: transform13
+    100240: transform14
+    100242: transform15
+    100244: transform16
+    100246: transform17
+    100248: transform18
+    100250: transform19
+    100252: transform2
+    100254: transform20
+    100256: transform21
+    100258: transform22
+    100260: transform23
+    100262: transform24
+    100264: transform25
+    100266: transform26
+    100268: transform27
+    100270: transform28
+    100272: transform29
+    100274: transform3
+    100276: transform30
+    100278: transform31
+    100280: transform32
+    100282: transform33
+    100284: transform34
+    100286: transform35
+    100288: transform36
+    100290: transform37
+    100292: transform38
+    100294: transform39
+    100296: transform4
+    100298: transform40
+    100300: transform41
+    100302: transform42
+    100304: transform43
+    100306: transform44
+    100308: transform45
+    100310: transform46
+    100312: transform47
+    100314: transform48
+    100316: transform49
+    100318: transform5
+    100320: transform50
+    100322: transform51
+    100324: transform52
+    100326: transform53
+    100328: transform54
+    100330: transform6
+    100332: transform7
+    100334: transform8
+    100336: transform9
+    100338: Window2
+    100340: Window2 1
+    100342: Window2 2
+    100344: Window2 3
+    100346: Window3
+    100348: Window3 1
+    100350: Window3 2
+    100352: Window3 3
+    400000: Automatic_Door:Automatic_door_left_static_window
+    400002: Automatic_Door:Automatic_door_left_static_window_pane
+    400004: Automatic_Door:Automatic_door_left_window
+    400006: Automatic_Door:Automatic_door_right_static_window
+    400008: Automatic_Door:Automatic_door_right_static_window_pane
+    400010: Automatic_Door:Automatic_door_right_window
+    400012: Automatic_Door:Automatic_door_upper_window
+    400014: Automatic_Door:Automatic_door_upper_window_Pane
+    400016: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:FITIL
+    400018: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Object01
+    400020: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle03
+    400022: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle04
+    400024: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle08
+    400026: Automatic_Door:AUTOMATIC_SLIDING_DOOR_OBJ:Rectangle09
+    400028: Automatic_Door:Left_door
+    400030: Automatic_Door:Right_door
+    400032: Automatic_Door:Sensor
+    400034: Automatic_Door:Sliding_Door
+    400036: Automatic_Door:transform1
+    400038: Automatic_Door:transform10
+    400040: Automatic_Door:transform11
+    400042: Automatic_Door:transform12
+    400044: Automatic_Door:transform13
+    400046: Automatic_Door:transform2
+    400048: Automatic_Door:transform3
+    400050: Automatic_Door:transform4
+    400052: Automatic_Door:transform5
+    400054: Automatic_Door:transform6
+    400056: Automatic_Door:transform7
+    400058: Automatic_Door:transform8
+    400060: Automatic_Door:transform9
+    400062: Beam_grid_1
+    400064: Beam_grid_1 1
+    400066: Beam_grid_1 2
+    400068: Beam_grid_1 3
+    400070: Beam_grid_2
+    400072: Beam_grid_2 1
+    400074: Beam_grid_2 2
+    400076: Beam_grid_2 3
+    400078: Beam_grid_3
+    400080: Beam_grid_3 1
+    400082: Beam_grid_3 2
+    400084: Beam_grid_3 3
+    400086: Beam_grid_4
+    400088: Beam_grid_4 1
+    400090: Beam_grid_4 2
+    400092: Beam_grid_4 3
+    400094: Beam_grid_5
+    400096: Beam_grid_5 1
+    400098: Beam_grid_5 2
+    400100: Beam_grid_5 3
+    400102: Beam_grid_6
+    400104: Beam_grid_6 1
+    400106: Beam_grid_6 2
+    400108: Beam_grid_6 3
+    400110: Endframe_1
+    400112: Endframe_1 1
+    400114: Endframe_1 2
+    400116: Endframe_1 3
+    400118: Endframe_2
+    400120: Endframe_2 1
+    400122: Endframe_2 2
+    400124: Endframe_2 3
+    400126: Frame
+    400128: Frame 1
+    400130: Frame 2
+    400132: Frame 3
+    400134: group
+    400136: group1
+    400138: group2
+    400140: group3
+    400142: group4
+    400144: group5
+    400146: group6
+    400148: group7
+    400150: pasted__group4
+    400152: pasted__pasted__pCube12
+    400154: pasted__pCube11
+    400156: pasted__pCube12
+    400158: pasted__pCube13
+    400160: pasted__pCube13 1
+    400162: pasted__pCube8
+    400164: pCube1
+    400166: pCube10
+    400168: pCube10 1
+    400170: pCube11
+    400172: pCube13
+    400174: pCube2
+    400176: pCube3
+    400178: pCube4
+    400180: pCube5
+    400182: pCube6
+    400184: pCube7
+    400186: pCube8
+    400188: pCube9
+    400190: pPlane2
+    400192: Roof
+    400194: Roof2
+    400196: Sideframe_1
+    400198: Sideframe_1 1
+    400200: Sideframe_1 2
+    400202: Sideframe_1 3
+    400204: Sideframe_2
+    400206: Sideframe_2 1
+    400208: Sideframe_2 2
+    400210: Sideframe_2 3
+    400212: //RootNode
+    400214: Top_beam
+    400216: Top_beam 1
+    400218: Top_beam 2
+    400220: Top_beam 3
+    400222: Top_Window
+    400224: Top_Window1
+    400226: Top_Window2
+    400228: Top_Window3
+    400230: transform1
+    400232: transform10
+    400234: transform11
+    400236: transform12
+    400238: transform13
+    400240: transform14
+    400242: transform15
+    400244: transform16
+    400246: transform17
+    400248: transform18
+    400250: transform19
+    400252: transform2
+    400254: transform20
+    400256: transform21
+    400258: transform22
+    400260: transform23
+    400262: transform24
+    400264: transform25
+    400266: transform26
+    400268: transform27
+    400270: transform28
+    400272: transform29
+    400274: transform3
+    400276: transform30
+    400278: transform31
+    400280: transform32
+    400282: transform33
+    400284: transform34
+    400286: transform35
+    400288: transform36
+    400290: transform37
+    400292: transform38
+    400294: transform39
+    400296: transform4
+    400298: transform40
+    400300: transform41
+    400302: transform42
+    400304: transform43
+    400306: transform44
+    400308: transform45
+    400310: transform46
+    400312: transform47
+    400314: transform48
+    400316: transform49
+    400318: transform5
+    400320: transform50
+    400322: transform51
+    400324: transform52
+    400326: transform53
+    400328: transform54
+    400330: transform6
+    400332: transform7
+    400334: transform8
+    400336: transform9
+    400338: Window2
+    400340: Window2 1
+    400342: Window2 2
+    400344: Window2 3
+    400346: Window3
+    400348: Window3 1
+    400350: Window3 2
+    400352: Window3 3
+    2300000: pasted__pasted__pCube12
+    2300002: pasted__pCube12
+    2300004: pasted__pCube13
+    2300006: pCube10
+    2300008: pPlane2
+    2300010: Roof2
+    3300000: pasted__pasted__pCube12
+    3300002: pasted__pCube12
+    3300004: pasted__pCube13
+    3300006: pCube10
+    3300008: pPlane2
+    3300010: Roof2
+    4300000: Roof2
+    4300002: pasted__pCube12
+    4300004: pPlane2
+    4300006: pasted__pCube13
+    4300008: pCube10
+    4300010: pasted__pasted__pCube12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
